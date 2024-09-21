@@ -19,7 +19,7 @@ This project does not touch or modify any original game code and is NOT intended
 3. Enjoy!
 
 ## NexusMods link
-- [Find it here](https://www.nexusmods.com/eldenring/mods/231)
+- [Find it here](https://www.nexusmods.com/godofwarragnarok/mods/22/)
 
 ## Stuff used
 
