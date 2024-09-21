@@ -1,4 +1,4 @@
-# ???? **NoPSSDK** _v1.0.0_
+# 🎮 🚨 **NoPSSDK** _v1.0.0_
 [![GitHub All Releases](https://img.shields.io/github/downloads/iArtorias/nopssdk/total.svg)](https://github.com/iArtorias/nopssdk/releases)
 
 ### A tiny library that fully strips the PlayStation PC SDK runtime requirement for God of War Ragnarok.
